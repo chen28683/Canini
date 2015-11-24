@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 test   aaaa   aaa
+=======
+aaa
+bbb
+ccc
+>>>>>>> master
